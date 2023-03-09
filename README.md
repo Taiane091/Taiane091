@@ -1,4 +1,14 @@
-### Hi there 👋
+<h1> Taiane Arruda Vaz </h1>
+## Aluna do curso em informática
+### CEEP
+<h2> Programações: </h2>
+<h3> Electrom: </h3>
+<img height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" />
+<h4> Android: </h4>
+<img height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"
+<h5> Java </h5>
+<img  height="200px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+###### Hi there 👋
 
 <!--
 **Taiane091/Taiane091** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
